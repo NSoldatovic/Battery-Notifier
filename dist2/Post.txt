@@ -1,0 +1,2 @@
+V2
+Dodata ikonica u system tray, proverite opcije
